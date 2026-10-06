@@ -5,7 +5,13 @@
 <h1 align="center">ECHOES</h1>
 
 <p align="center">
-https://buymeacoffee.com/rop1ms
+Способы поддержать меня:
+  
+  Монобанк (Украина):
+  https://send.monobank.ua/jar/6sc2rd1Yjz
+  
+  Buy me a cofee:<!--  -->
+  https://buymeacoffee.com/rop1ms
   
   Музыкальный плеер для Windows — а ещё конструктор тем, просмотр клипов, маленькая студия
   и ритм-игра в духе osu! по вашей же музыке.
