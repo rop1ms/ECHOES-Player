@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon6.png" width="96" alt="ECHOES logo">
+  <img src="icon-6.png" width="96" alt="ECHOES logo">
 </p>
 
 <h1 align="center">ECHOES</h1>
