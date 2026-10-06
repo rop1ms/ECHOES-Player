@@ -5,6 +5,7 @@
 <h1 align="center">ECHOES</h1>
 
 <p align="center">
+  https://buymeacoffee.com/rop1ms
   A music player for Windows that is also a theme designer, a music-video viewer, a small DAW
   and an osu!-style rhythm game built from your own library.
 </p>
