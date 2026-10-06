@@ -1,0 +1,10 @@
+* text=auto
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+# Windows scripts need CRLF; PowerShell files keep their UTF-8 BOM (Windows PowerShell 5.1 needs it for Cyrillic)
+*.bat  text eol=crlf
+*.ps1  text eol=crlf
+*.ico  binary
+*.png  binary
+*.jpg  binary

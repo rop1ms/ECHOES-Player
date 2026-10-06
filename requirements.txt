@@ -1,0 +1,29 @@
+# ECHOES — Python dependencies (Python 3.12, Windows 10/11 x64).
+# The installer (install.bat) sets all of this up automatically; this file is for running from source.
+#
+# Not on PyPI: VLC 3.x (libvlc) and ffmpeg. The installer puts portable copies next to the program;
+# when running from source, install VLC 64-bit and put ffmpeg on PATH (or set ECHOES_VLC_DIR).
+
+# core
+PyQt6
+python-vlc
+numpy
+scipy
+mutagen
+requests
+
+# downloads, lyrics, covers, Discord, audio output
+yt-dlp
+ytmusicapi
+syncedlyrics
+beautifulsoup4
+lyricsgenius
+Pillow
+pypresence
+sounddevice        # own audio output: exact gapless playback (without it VLC plays the sound)
+
+# optional — the matching feature turns itself off when a package is missing
+# spotdl           # Spotify links in the downloader
+# onnxruntime      # Echoes Studio: neural vocal separation for the mashup bot
+# faster-whisper   # automatic lyrics timing (speech recognition)
+# send2trash       # delete files to the Recycle Bin
