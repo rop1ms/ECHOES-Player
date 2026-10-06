@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/icon.png" width="96" alt="Логотип ECHOES">
+  <img src="icon-6.png" width="96" alt="Логотип ECHOES">
 </p>
 
 <h1 align="center">ECHOES</h1>
