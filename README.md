@@ -6,9 +6,11 @@
 
 <p align="center">
   Ways to support me:
-  
+
+  Buy me a coffee:
   https://buymeacoffee.com/rop1ms
   
+  Monobank(Ukraine):
   https://send.monobank.ua/jar/6sc2rd1Yjz
   
   A music player for Windows that is also a theme designer, a music-video viewer, a small DAW
