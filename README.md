@@ -139,6 +139,6 @@ Download only music and videos you have the right to.
 
 ## Mobile version
 
-ECHOES now anivable on IOS, by [padr0 chill](https://github.com/padr0chill)
+ECHOES now available  on IOS, by [padr0 chill](https://github.com/padr0chill)
 
 [ECHOES MOBILE](https://github.com/padr0chill/echoes-mobile)
