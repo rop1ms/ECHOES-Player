@@ -136,3 +136,9 @@ dictionaries `i18n_en.py` and `i18n_en_extra.py`. Switch it in Settings → *Lan
 ECHOES is free software under the **GNU General Public License v3.0** — see [LICENSE](LICENSE).
 Third-party components and their licenses: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 Download only music and videos you have the right to.
+
+## Mobile version
+
+ECHOES now anivable on IOS, by [padr0 chill](https://github.com/padr0chill)
+
+[ECHOES MOBILE](https://github.com/padr0chill/echoes-mobile)
